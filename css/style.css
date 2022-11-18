@@ -1,0 +1,41 @@
+*{
+    outline: 1px dotted red;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: lightcyan;
+    
+}
+
+h1 {
+    color: grey;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+h2{
+    text-transform: capitalize;
+}
+
+.form-header {
+    color: grey;
+    text-transform: capitalize;
+}
+
+.littleBox {
+    padding: 15px;
+    margin: 0 auto;
+    width: 80%;
+    border: 3px solid grey;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+
+.display-text{
+    font-size: 30px;
+    font-weight: 400;
+
+}
