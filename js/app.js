@@ -147,7 +147,7 @@ class Tester {
             this.accessGranted('denied');
         };
     };
-    
+
 };
 
 
